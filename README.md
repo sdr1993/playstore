@@ -3,7 +3,7 @@
 
 The Internet is a true gold mine of data. E-commerce and review sites are brimming with a lot of untapped data with a prominent potential to convert into meaningful insights that can help with robust decision making. Here, we explore using data science and machine learning techniques on data retrieved from one such avenue on the internet, the Google Play Store.
 
-![alt text](https://github.com/sdr1993/playstore/issues/1#issue-556330880)
+![](https://techcrunch.com/wp-content/uploads/2014/06/google-play.jpg?w=1390&crop=1)
 
 
 ## Details of Dataset:
